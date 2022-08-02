@@ -91,7 +91,7 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mosh3eb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=566F83A4&fire=DD3B00&currStreakNum=DD2727&ring=DD2727&border=DD2727)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosh3eb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mosh3eb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=566F83A4&fire=DD3B00&currStreakNum=DD2727&ring=DD2727&border=DD2727)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosh3eb&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosh3eb&show_icons=true&theme=tokyonight)
 
 
