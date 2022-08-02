@@ -1,4 +1,5 @@
-### Hi there 👋 , I am Coder Mo 😊 !
+[![MasterHead](https://i.postimg.cc/bvvWcWs0/banner-1.png)](https://github.com/mosh3eb)
+
 
 This is the place where I opensource stuff and break things 😂 
 
@@ -20,4 +21,4 @@ This is the place where I opensource stuff and break things 😂
 </a>
 
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=mosh3eb&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=mosh3eb&theme=tokyonight&column=-1&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
