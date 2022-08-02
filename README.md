@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/mosh3eb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coder-mo official linkedin account" height="16" width="16"&nbsp&nbsp&nbsp&nbsp&nbsp/></a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://instagram.com/coder_mo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coder-mo official instagram account" height="16" width="16"/></a>
 </p>
-<hr>
+<hr">
 
 
 ### :woman_technologist: About Me :
@@ -89,26 +89,10 @@
     </h1>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mosh3eb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=566F83A4&fire=DD3B00&currStreakNum=DD2727&ring=DD2727&border=DD2727&card_width=945)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosh3eb&show_icons=true&theme=tokyonight&hide_border=true&card_width=945)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosh3eb&theme=tokyonight&hide_border=true&card_width=945&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div align="center" dir="auto">
+  <h2>:fire: My Stats</h2>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width="390" src="https://github-readme-stats.vercel.app/api?username=mosh3eb&show_icons=true&theme=tokyonight&hide_border=true" style="max-width: 100%;">
     </a>
@@ -118,9 +102,11 @@
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width="390" src="http://github-readme-streak-stats.herokuapp.com?user=mosh3eb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=566F83A4&fire=DD3B00&currStreakNum=DD2727&ring=DD2727&border=DD2727" style="max-width: 100%;">
     </a>
+</div>
 
-
-
-
-
+<div align="center" dir="auto">
+    <h2>:fire: Snake game</h2>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img src="https://raw.githubusercontent.com/mosh3eb/mosh3eb/eaecc649d60f67121e07467266f3b97e985b4943/github-contribution-grid-snake.svg" style="max-width: 100%;">
+      </div>
 
