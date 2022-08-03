@@ -1,10 +1,69 @@
-[![MasterHead](https://i.postimg.cc/bvvWcWs0/banner-1.png)](https://github.com/mosh3eb)
+[![MasterHead](https://i.postimg.cc/QNWm7bSD/banner-2.png)](https://github.com/mosh3eb)
+
+<!-- Header txt-->
+<h3 align="center">
+  Welcome to Coder Mo's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<!--End of Header-->
+
+<!--Header_typing svg-->
 <p align="center">
-<a href="https://www.twitter.com/Mo_Coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="coder-mo official facebook account" height="16" width="16"&nbsp&nbsp&nbsp&nbsp&nbsp/></a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://www.linkedin.com/in/mosh3eb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coder-mo official linkedin account" height="16" width="16"&nbsp&nbsp&nbsp&nbsp&nbsp/></a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://instagram.com/coder_mo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coder-mo official instagram account" height="16" width="16"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+Front-End+Web+Developer;Exprienced+UI%2FUx+Designer;2%2B+Years++Of+Coding+Experience;Always+Learning+New+Things&font=Fira%20Code&center=true&width=440&height=45&color=417BBD&vCenter=true&size=22"></a>
 </p>
-<hr">
+<!--End of Header_typing svg-->
+
+<!--Social media-->
+<p align="center">
+  <a href="https://www.twitter.com/Mo_Coder" target="blank"><img width="20px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/twitter/twitter-original.svg"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/mosh3eb" target="blank"><img width="20px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/coder_mo" target="blank"><img width="20px" alt="InstagramInstagram" title="Instagram" src="https://i.imgur.com/M6yBwxS.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://vk.com/mosh3_eb" target="blank"><img width="20px" alt="Vk" title="Vk" src="https://i.imgur.com/pPj8Q4o.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/CoderMo"><img width="20px" alt="Coffee" title="Buy me a coffee" src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png"/></a>
+</p>
+<!--End of Social media-->
+
+
+## ⚡ Stats ⚡
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mosh3eb&theme=tokyonight&border=61dafb&hide_border=true" alt="coder-mo" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mosh3eb&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosh3eb&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
+<details> 
+<summary>Contribution Graph</summary>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+ <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=mosh3eb&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"></a>
+</details>
+<details>
+<summary>Achievements</summary>
+    <div align=center>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="center alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Mosh3eb&theme=tokyonight&no-frame=true&column=7">
+</a>
+  </div>
+</details>
+
+<br>
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="github contribution snake animation" src="https://github.com/mosh3eb/mosh3eb/blob/output/github-contribution-grid-snake.svg">
+    </a>
+  </div>
 
 
 ### :woman_technologist: About Me :
