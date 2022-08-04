@@ -21,7 +21,7 @@
 <!--End of Header_typing svg-->
 
 <!-- About Me -->
-## About Me
+### <img src="https://raw.githubusercontent.com/janaSunrise/janaSunrise/main/assets/cat-float.gif" width="30"> About Me
 <p align="left">
   <a href="https://www.twitter.com/Mo_Coder" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/Mo_Coder?logo=twitter&style=for-the-badge&color=0077B5&labelColor=000000">
@@ -42,25 +42,181 @@ A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Scie
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech News and Updates.
 
-- ❓ Ask me about anything related to Javascript / Typescript / Python or React / Vue 
+- ❓ Ask me about anything related to Javascript / Typescript / Python or React / Vue.
 
-- :mailbox: How to reach me: Mosh3_eb@vk.com
+- :mailbox: How to reach me: Mosh3_eb@vk.com.
 
 - 🔏 CyberSecurity Studying in free time.
 
-- ☕ Coffee lover, turning it into code, [you can buy me a coffee](https://www.buymeacoffee.com/CoderMo)!
+- ☕ Coffee lover , [buy me a coffee](https://www.buymeacoffee.com/CoderMo)!
 
-- 🎯 Wasting my time to save other people's time.
-
-- 💡 [Learn more about me](https://linktr.ee/Mosh3eb).
+- 💡 [More about me](https://linktr.ee/Mosh3eb).
 
 
-## 🎧 Spotify Playing
+## Ṥpotify Playing 🎶
+<p align="left">
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="blank"><img alt="Top Hits Music" title="Top Hits Music" src="https://img.shields.io/badge/Top%20Hits%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ" target="blank"><img alt="Programming Music" title="Programming Music" src="https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/3QSmfNR2XtpoADu0QPGVJK" target="blank"><img alt="Trending Music" title="Trending Music" src="https://img.shields.io/badge/Trending%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white"></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8" target="blank"><img alt="Mix Music" title="Mix Music" src="https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/user/31g4av26k3364swn55a5u4xcxaoa"><img alt="CoderMo Spoti list" title="CoderMo Spoti list" src="https://readme-spotify.warengonzaga.com/api/spotify" /></a>
+</p>
 
-[![Top Hits Music](https://img.shields.io/badge/Top%20Hits%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ) [![KPOP Music](https://img.shields.io/badge/Trending%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/section/0JQ5DAnM3wGh0gz1MXnu3E) [![PPOP Music](https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX50MDbDwt4w8)
+## †echnologies
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31g4av26k3364swn55a5u4xcxaoa)
+### Ṕrogramming Languages
+<!--Language section-->
+<div align="left">
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Ahtml">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white ">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Acss3">
+        <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Ajavascript">
+        <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Ajquery ">
+        <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Atypescript ">
+        <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white ">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Anodejs">
+        <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white ">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Aphp ">
+        <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Amysql">
+        <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Asqlite ">
+        <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3AmongoDb ">
+        <img alt="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Apython">
+        <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3AC">
+        <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white ">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3AC++">
+        <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3AC#">
+        <img alt="C#" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3A.Net">
+        <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Ajava">
+        <img alt="java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Akotlin">
+        <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Adart">
+        <img alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Amarkdown">
+        <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Abash">
+        <img alt="bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Aperl">
+        <img alt="perl" src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Apowershell">
+        <img alt="powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
+    </a>
+</div>
 
+## ₣rameworks
+<!--Framworks section-->
+<div align="left">
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Abootstrap">
+        <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Aangular">
+        <img alt="angular.js" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Avue">
+        <img alt="vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Areact">
+        <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Awordpress">
+        <img alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+    </a>
+    <a href="https://github.com/search?q=user%3Amosh3eb+language%3Aflutter">
+        <img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    </a>
+    </div>
+    
+## Ṥoftwares and Design Tools
+<!--Softwares section-->
+<div align="left">
+    <a href="#">
+        <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    </a>
+    <a href="#">
+        <img alt="Premier" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Effect" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
+    </a>
+    <a href="#">
+        <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="android-studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="stackoverflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="gitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="#">
+        <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </a>
+</div>
+
+<!--Github state-->
 ## ⚡ Stats ⚡
 <br>
 <p align=center>
