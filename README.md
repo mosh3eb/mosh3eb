@@ -257,9 +257,9 @@ if you love my work then buy me a coffee 😊 <br>
 <a href="https://www.buymeacoffee.com/CoderMo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <br>
 <br>
-<div align="center"
+<div align="center">
    <a href="https://github.com/mosh3eb">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/mosh3eb?style=for-the-badge&label=@mosh3eb&logo=github">
+    <img alt="GitHub" src="https://img.shields.io/github/followers/mosh3eb?style=for-the-badge&label=@mosh3eb&logo=github"/>
 </a>
 <a href="https://twitter.com/mosh3eb/">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/mosh3eb?style=for-the-badge&label=@mosh3eb&logo=twitter">
