@@ -273,9 +273,6 @@ if you love my work then buy me a coffee 😊 <br>
 <a href="https://www.instagram.com/coder_mo/">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@mosh3eb&style=for-the-badge&color=7E3ACE&logo=instagram&logoColor=whitesmoke" />
 </a>
-<a href="mailto:mzlwmm748@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=Mzlwmm748@gmail.com&style=for-the-badge&color=whitesmoke&logo=gmail" />
-</a>
 </div>
 <br>
                                                                                                                                 
