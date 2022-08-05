@@ -211,11 +211,11 @@ A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Scie
 </div>
 
 
-## 📊 Github stats
+## :octocat: Github stats
 
 <!-- Start state -->
 <details> 
-  <summary>💻 Profile Stats</summary>
+  <summary>Profile Stats</summary>
   <br/>
      <div align=center>
         <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -228,7 +228,7 @@ A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Scie
 </details>
 <!-- Snake Section -->
 <details>
-  <summary>⚡ Snake GitHub Activity</summary>
+  <summary>Snake Contribution</summary>
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img src="https://raw.githubusercontent.com/mosh3eb/mosh3eb/eaecc649d60f67121e07467266f3b97e985b4943/github-contribution-grid-snake.svg" style="max-width:100%;">
@@ -250,7 +250,18 @@ A  Junior software engineer, Front-End Developer, Tech researcher, Computer-Scie
         <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=mosh3eb&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"></a>
         </div>
 </details>
+                                                            
+## Support Me
+if you love my work then buy me a coffee 😊 <br>
 
+<a href="https://www.buymeacoffee.com/CoderMo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=mosh3eb.mosh3eb) [![Github](https://img.shields.io/github/followers/mosh3eb?label=Follow&style=social)](https://github.com/mosh3eb)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Gradients.png"/>
+            </div>
+<div align="center">
+    <img src="https://github.com/itstommi/itstommi/blob/main/Rainbow.gif" width="100%">
+            </div>
+                          
+                                                     
+                                                                                                                                
