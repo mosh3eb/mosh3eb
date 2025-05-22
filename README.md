@@ -304,7 +304,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=100&lines=if+(codeWorking){;++++while+(codeQuality+%3C+perfectCode){;++++++++codeQuality%2B%2B%3B;++++};};%2F%2F+-+Mosh3eb" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=100&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=100&lines=if+(codeWorking){;++++while+(codeQuality+%3C+perfectCode){;++++++++codeQuality%2B%2B%3B;++++};};%2F%2F+-+Mosh3eb" alt="Typing SVG" />
 </div>
 
 <!-- PROFILE VIEWS AND SUPPORT SECTION -->
