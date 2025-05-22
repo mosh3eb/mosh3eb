@@ -14,28 +14,28 @@
 
 <!-- ABOUT ME SECTION WITH 3D ANIMATION -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="30">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="50">
   About Me
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="30">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="50">
 </h1>
 
 <table align="center" border="0">
   <tr border="0">
     <td width="60%" align="left" valign="top">
       <p>
-        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/rocket.gif" width="20">
-        I'm currently working on <b>improving my AI and programming skills</b>
+        <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="50">
+        I'm currently working on <b>improving my AI skills</b>
         <br><br>
-        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/message.gif" width="25">
-        I'm looking to collaborate on <b>building user-friendly and visually appealing AI applications</b>
+        <img src="https://media.tenor.com/5wG2HVEOyHAAAAAi/letter-crooked-media.gif" width="50">
+        I'm looking to collaborate on <b>building AI applications</b>
         <br><br>
-        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/laptop.gif" width="25">
-        I'm a <b>Back-end technology Seeker</b> with a growing focus on AI engineering
+        <img src="https://media.tenor.com/usPb7UCb94QAAAAi/line.gif" width="60">
+        I'm a <b>Back-end Seeker</b> with a focus on AI engineering
         <br><br>
-        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/letterbox.gif" width="25">
-        Ask me about <b>Back-end development, AI, and related technologies</b>
+        <img src="https://media.tenor.com/cOg3V13tLeEAAAAi/delivery-amazon.gif" width="50">
+        Ask me about <b>Back-end development A technologies</b>
         <br><br>
-        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/lightning.gif" width="12">
+        <img src="https://media.tenor.com/_hGzFXAJgpgAAAAi/lightning-sword.gif" width="50">
         Fun fact: <b>I use tabs over spaces</b>
       </p>
     </td>
@@ -47,16 +47,16 @@
 
 <!-- ANIMATED SOCIAL LINKS -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/waving.gif" width="30">
+  <img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="50">
   Connect With Me
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/waving.gif" width="30">
+  <img src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif" width="50">
 </h1>
 
 <div align="center">
-  <a href="https://twitter.com/MOSH3_EB" style="margin-right: 10px;">
+  <a href="https://twitter.com/mo_coder" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.linkedin.com/in/mosh3eb" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/codermo" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/mosh3eb" style="margin-right: 10px;">
@@ -71,10 +71,10 @@
   <a href="https://facebook.com/mosh3eb" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com/mosh3eb" style="margin-right: 10px;">
+  <a href="https://instagram.com/sav00m" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://medium.com/@mosh3eb">
+  <a href="https://medium.com/@sav00m">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
 </div>
@@ -87,9 +87,9 @@
 
 <!-- ANIMATED TECH STACK SECTION -->
 <h1 align="center" style="margin-top: 30px;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
   Tech Stack
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
 </h1>
 
 <!-- AI & MACHINE LEARNING SECTION WITH ANIMATED ICONS -->
@@ -116,7 +116,7 @@
 <!-- PROGRAMMING LANGUAGES SECTION -->
 <details open>
   <summary style="cursor: pointer; font-size: 18px; font-weight: bold; margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/code.gif" width="30">
+    <img src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif" width="30">
     Programming Languages
   </summary>
   <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
@@ -134,7 +134,7 @@
 <!-- WEB DEVELOPMENT SECTION -->
 <details open>
   <summary style="cursor: pointer; font-size: 18px; font-weight: bold; margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/web.gif" width="30">
+    <img src="https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif" width="30">
     Web Development
   </summary>
   <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
@@ -153,7 +153,7 @@
 <!-- TOOLS & FRAMEWORKS SECTION -->
 <details open>
   <summary style="cursor: pointer; font-size: 18px; font-weight: bold; margin-bottom: 15px;">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/tools.gif" width="30">
+    <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="30">
     Tools & Frameworks
   </summary>
   <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
@@ -170,9 +170,9 @@
 
 <!-- ANIMATED GITHUB STATS SECTION -->
 <h1 align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/star.gif" width="30">
+  <img src="https://media.tenor.com/NN9KzjitEZoAAAAi/brawl-stars-kit.gif" width="50">
   GitHub Stats
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/star.gif" width="30">
+  <img src="https://media.tenor.com/NN9KzjitEZoAAAAi/brawl-stars-kit.gif" width="50">
 </h1>
 
 <!-- GITHUB TROPHIES -->
@@ -209,29 +209,31 @@
 </div>
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<div align="center" style="margin-top: 30px;">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/mosh3eb/mosh3eb/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%">
-</div>
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://media.tenor.com/GameRYxVcpgAAAAi/snake-snek.gif" width="30">
+  My Contributions
+  <img src="https://media.tenor.com/GameRYxVcpgAAAAi/snake-snek.gif" width="30">
+</h1>
+  <img src="https://raw.githubusercontent.com/sav00m/sav00m/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%">
 
 <!-- PROJECTS SECTION WITH ANIMATED CARDS -->
 <h1 align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/laptop.gif" width="30">
+  <img src="https://media.tenor.com/EIY0kRDoFF8AAAAi/kumo-kumothekat.gif" width="50">
   Featured Projects
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/laptop.gif" width="30">
+  <img src="https://media.tenor.com/EIY0kRDoFF8AAAAi/kumo-kumothekat.gif" width="50">
 </h1>
 
 <div align="center">
   <table border="0" align="center">
     <tr border="0">
       <td width="50%" align="center">
-        <a href="https://github.com/mosh3eb/Portfolio_Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=Portfolio_Website&theme=radical&hide_border=true" alt="Portfolio Website" />
+        <a href="https://github.com/mosh3eb/DigitalCraft">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=DigitalCraft&theme=radical&hide_border=true" alt="DigitalCraft" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mosh3eb/GitHub_Profile_README_Generator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=GitHub_Profile_README_Generator&theme=radical&hide_border=true" alt="GitHub Profile README Generator" />
+        <a href="https://github.com/mosh3eb/ReserveHub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=ReserveHub&theme=radical&hide_border=true" alt="ReserveHub" />
         </a>
       </td>
     </tr>
@@ -240,9 +242,9 @@
 
 <!-- AI JOURNEY SECTION WITH TIMELINE -->
 <h1 align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/bulb.gif" width="30">
+  <img src="https://media.tenor.com/hpfU1-cdTC8AAAAi/light-thinking.gif" width="50">
   My AI Journey
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/bulb.gif" width="30">
+  <img src="https://media.tenor.com/hpfU1-cdTC8AAAAi/light-thinking.gif" width="50">
 </h1>
 
 <div align="center">
@@ -276,9 +278,9 @@
 
 <!-- BLOG POSTS SECTION WITH DYNAMIC CONTENT -->
 <h1 align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/hyperkitty.gif" width="30">
-  Latest Blog Posts
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/hyperkitty.gif" width="30">
+  <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50">
+  Interesting Blogs
+  <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50">
 </h1>
 
 <div align="center">
@@ -299,37 +301,37 @@
 
 <!-- FAVORITE QUOTE WITH ANIMATION -->
 <h1 align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/stars.gif" width="30">
+  <img src="https://media.tenor.com/fisyvWG_iDcAAAAi/finger-quotes.gif" width="50">
   Favorite Quote
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/stars.gif" width="30">
+  <img src="https://media.tenor.com/fisyvWG_iDcAAAAi/finger-quotes.gif" width="50">
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=100&lines=if+(codeWorking){;++++while+(codeQuality+%3C+perfectCode){;++++++++codeQuality%2B%2B%3B;++++};};%2F%2F+-+CoderMo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=100&lines=if+(codeWorking){;++++while+(codeQuality+%3C+perfectCode){;++++++++codeQuality%2B%2B%3B;++++};};%2F%2F+-+Mosh3eb" alt="Typing SVG" />
 </div>
 
 <!-- PROFILE VIEWS AND SUPPORT SECTION -->
 <h1 align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/coin.gif" width="30">
+  <img src="https://media.tenor.com/t5epNck0q04AAAAi/xrp-ripple.gif" width="50">
   Support My Work
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/coin.gif" width="30">
+  <img src="https://media.tenor.com/t5epNck0q04AAAAi/xrp-ripple.gif" width="50">
 </h1>
 
 <div align="center">
   <table border="0" align="center" style="width: 80%;">
     <tr border="0">
       <td align="center">
-        <a href="https://www.buymeacoffee.com/mosh3eb">
+        <a href="https://www.buymeacoffee.com/sav00m">
           <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
         </a>
       </td>
       <td align="center">
-        <a href="https://www.patreon.com/mosh3eb">
+        <a href="https://www.patreon.com/sav00m">
           <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
         </a>
       </td>
       <td align="center">
-        <a href="https://ko-fi.com/mosh3eb">
+        <a href="https://ko-fi.com/sav00m">
           <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
         </a>
       </td>
