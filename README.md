@@ -1,121 +1,343 @@
+<!-- HEADER SECTION WITH ANIMATED TYPING -->
 <div align="center">
-    <img width="100%" alt="welcome to my profile!" src="https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=180&section=header&text=Mohamed%20Salem&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF" width="100%" alt="header"/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=600&lines=Junior+AI+Engineer;Back-End+Developer;Problem+Solver;Continuous+Learner;IT+Security+Specialist" alt="Typing SVG" />
+  </a>
 </div>
 
-<!--Social media-->
-<p align="center">
-    <a href="https://facebook.com/mosh3eb" target="blank"><img alt="facebook" title="facebook" src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/Mo_Coder" target="blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue" /></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.linkedin.com/in/codermo" target="blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue"></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://instagram.com/iam_not_mo" target="blank"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink" /></a>&#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://bit.ly/coderMO"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-</p>
-<!--End of Social media-->
+<!-- ANIMATED BANNER WITH AI THEME -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/banner.gif" width="100%">
+</div>
 
+<!-- ABOUT ME SECTION WITH 3D ANIMATION -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="30">
+  About Me
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="30">
+</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on improving my programming skills<br>👯 I’m looking to collaborate on Building user-friendly and visually appealing web applications<br>🌱 I’m a Back-end technology Seeker<br>💬 Ask me about Back-end development and related technologies<br>⚡ Fun fact : I use tabs over spaces
+<table align="center" border="0">
+  <tr border="0">
+    <td width="60%" align="left" valign="top">
+      <p>
+        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/rocket.gif" width="20">
+        I'm currently working on <b>improving my AI and programming skills</b>
+        <br><br>
+        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/message.gif" width="25">
+        I'm looking to collaborate on <b>building user-friendly and visually appealing AI applications</b>
+        <br><br>
+        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/laptop.gif" width="25">
+        I'm a <b>Back-end technology Seeker</b> with a growing focus on AI engineering
+        <br><br>
+        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/letterbox.gif" width="25">
+        Ask me about <b>Back-end development, AI, and related technologies</b>
+        <br><br>
+        <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/lightning.gif" width="12">
+        Fun fact: <b>I use tabs over spaces</b>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZmNjIzMzRkMzFmMDZiMzRkMjBmMDRiMDRiMDM1YzE0ZTRiMzI5YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+    </td>
+  </tr>
+</table>
 
+<!-- ANIMATED SOCIAL LINKS -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/waving.gif" width="30">
+  Connect With Me
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/waving.gif" width="30">
+</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=blue)](https://facebook.com/mosh3eb) [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/iam_not_mo) [![LinkedIn](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://linkedin.com/in/mosh3eb) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@coder_mo) [![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=red)](https://pinterest.com/coder_mo) [![Quora](https://img.shields.io/badge/Quora-000000?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/coder_mo) [![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=orange)](https://reddit.com/user/coder_mo) [![Stack Overflow](https://img.shields.io/badge/Stackoverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/15410191) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/mo_coder) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/coder_mo) 
+<div align="center">
+  <a href="https://twitter.com/MOSH3_EB" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/mosh3eb" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mosh3eb" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://orcid.org/0009-0001-1956-5824" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</div>
 
-## Tech Stack 💻
-#### Languages
-[![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)](https://html.com/)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
-[![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=C%2B%2B&logoColor=white)](https://www.cprogramming.com/)
-[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=white)](https://www.learnpython.org/)
-[![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
- 
-[![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/getting-started/)
-[![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)](https://www.lua.org/pil/)
+<div align="center" style="margin-top: 15px;">
+  <a href="https://facebook.com/mosh3eb" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/mosh3eb" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://medium.com/@mosh3eb">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
 
-#### JS Framework/Library
-[![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)](https://nextjs.org/docs)
-[![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)](https://legacy.reactjs.org/docs/getting-started.html)
-[![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)](https://threejs.org/docs/)
-[![Nodejs](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js)](https://nodejs.org/en/docs)
-[![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)](https://docs.angularjs.org/guide/introduction)
-[![Svelte](https://img.shields.io/badge/-svelte-000?style=for-the-badge&logo=svelte&logoColor=orange)](https://svelte.dev/docs)
+<!-- PROFILE VIEWS AND FOLLOWERS -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=mosh3eb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mosh3eb?label=Followers&style=social" alt="GitHub Followers" />
+</div>
 
-#### CSS Framework/Library/Pre-processors
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-[![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)](https://mui.com/)
-[![PostCSS](https://img.shields.io/badge/-PostCSS-000?style=for-the-badge&logo=postcss)](https://postcss.org/)
-[![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)](https://sass-lang.com/documentation/)
+<!-- ANIMATED TECH STACK SECTION -->
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  Tech Stack
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+</h1>
 
-#### Design/Visual Tools
-[![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)](https://www.figma.com/)
-[![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)](https://www.framer.com/)
-[![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)](https://lightroom.adobe.com/)
-[![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)](https://www.canva.com/)
-[![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)](https://www.adobe.com/eg_en/products/aftereffects.html)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](https://www.adobe.com/products/premiere.html)
+<!-- AI & MACHINE LEARNING SECTION WITH ANIMATED ICONS -->
+<details open>
+  <summary style="cursor: pointer; font-size: 18px; font-weight: bold; margin-bottom: 15px;">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    AI & Machine Learning
+  </summary>
+  <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="margin-right: 5px; margin-bottom: 5px;">
+    <br>
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" style="margin-bottom: 5px;">
+  </div>
+</details>
 
-#### Database/State
-[![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)](https://firebase.google.com/docs)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/docs/)
-[![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)](https://mobx.js.org/)
+<!-- PROGRAMMING LANGUAGES SECTION -->
+<details open>
+  <summary style="cursor: pointer; font-size: 18px; font-weight: bold; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/code.gif" width="30">
+    Programming Languages
+  </summary>
+  <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-right: 5px; margin-bottom: 5px;">
+    <br>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="margin-bottom: 5px;">
+  </div>
+</details>
 
-#### Backend
-[![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)](https://www.php.net/docs.php)
-[![Laravel](https://img.shields.io/badge/-Laravel-000?style=for-the-badge&logo=laravel)](https://laravel.com/docs/10.x/readme)
-[![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)](https://www.api.org/)
-[![MySQL](https://img.shields.io/badge/-MYSQL-000?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
+<!-- WEB DEVELOPMENT SECTION -->
+<details open>
+  <summary style="cursor: pointer; font-size: 18px; font-weight: bold; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/web.gif" width="30">
+    Web Development
+  </summary>
+  <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin-right: 5px; margin-bottom: 5px;">
+    <br>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" style="margin-bottom: 5px;">
+  </div>
+</details>
 
-#### Web Hosting
-[![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)](https://vercel.com/)
-[![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)](https://www.heroku.com/)
-[![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
-[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)](https://pages.github.com/)
-[![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)](https://www.netlify.com/)
+<!-- TOOLS & FRAMEWORKS SECTION -->
+<details open>
+  <summary style="cursor: pointer; font-size: 18px; font-weight: bold; margin-bottom: 15px;">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/tools.gif" width="30">
+    Tools & Frameworks
+  </summary>
+  <div align="center" style="margin-top: 15px; margin-bottom: 25px;">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right: 5px; margin-bottom: 5px;">
+    <br>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="margin-right: 5px; margin-bottom: 5px;">
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" style="margin-bottom: 5px;">
+  </div>
+</details>
 
-#### CI/CD
-[![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)](https://circleci.com/docs/)
-[![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)](https://docs.github.com/actions)
-[![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)](https://www.jenkins.io/doc/)
+<!-- ANIMATED GITHUB STATS SECTION -->
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/star.gif" width="30">
+  GitHub Stats
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/star.gif" width="30">
+</h1>
 
-#### Package Manager
-[![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)](https://docs.npmjs.com/)
-[![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)](https://yarnpkg.com/)
+<!-- GITHUB TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mosh3eb&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
-#### Version Control
-[![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/)
+<!-- GITHUB STATS CARDS -->
+<div align="center" style="margin-top: 20px;">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosh3eb&theme=radical&hide_border=true" alt="streak stats"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mosh3eb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-``` java
-if (codeWorking){
-            while (codeQuality < perfectCode){
-                codeQuality++;
-            }
-        }
-// - CoderMo
-```
+<!-- LANGUAGES AND ACTIVITY GRAPH -->
+<div align="center" style="margin-top: 20px;">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosh3eb&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="languages"/>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosh3eb&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-# 📊 GitHub Stats:
-   <div align=center>
-        <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-            <img alt="Mosh3eb's state" src="https://github-readme-stats.vercel.app/api?username=coder2mo&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" height="192px"/>
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<div align="center" style="margin-top: 30px;">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img src="https://github.com/mosh3eb/mosh3eb/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%">
+</div>
+
+<!-- PROJECTS SECTION WITH ANIMATED CARDS -->
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/laptop.gif" width="30">
+  Featured Projects
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/laptop.gif" width="30">
+</h1>
+
+<div align="center">
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <a href="https://github.com/mosh3eb/Portfolio_Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=Portfolio_Website&theme=radical&hide_border=true" alt="Portfolio Website" />
         </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=coder2mo&theme=vision-friendly-dark&hide_border=false" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mosh3eb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder2mo&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
-  <br/>
-    </div>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/mosh3eb/GitHub_Profile_README_Generator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=GitHub_Profile_README_Generator&theme=radical&hide_border=true" alt="GitHub Profile README Generator" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<!-- AI JOURNEY SECTION WITH TIMELINE -->
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/bulb.gif" width="30">
+  My AI Journey
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/bulb.gif" width="30">
+</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coder2mo&theme=dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <table border="0" align="center" style="width: 80%;">
+    <tr border="0">
+      <td width="30%" align="center"><b>🎓 Learning</b></td>
+      <td width="70%" align="left">
+        Deep Learning, Computer Vision, NLP, Reinforcement Learning
+      </td>
+    </tr>
+    <tr border="0">
+      <td width="30%" align="center"><b>🔭 Working On</b></td>
+      <td width="70%" align="left">
+        AI-powered applications, Machine Learning models, Data Analysis
+      </td>
+    </tr>
+    <tr border="0">
+      <td width="30%" align="center"><b>🌱 Growing</b></td>
+      <td width="70%" align="left">
+        Neural Networks, Model Optimization, AI Ethics
+      </td>
+    </tr>
+    <tr border="0">
+      <td width="30%" align="center"><b>🚀 Goals</b></td>
+      <td width="70%" align="left">
+        Contribute to open-source AI projects, Build innovative AI solutions
+      </td>
+    </tr>
+  </table>
+</div>
 
+<!-- BLOG POSTS SECTION WITH DYNAMIC CONTENT -->
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/hyperkitty.gif" width="30">
+  Latest Blog Posts
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/hyperkitty.gif" width="30">
+</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <!-- BLOG-POST-LIST:START -->
+  <a href="https://dev.to">
+    <img src="https://img.shields.io/badge/Getting%20Started%20with%20AI%20Engineering:%20A%20Beginner's%20Guide-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog Post" />
+  </a>
+  <br><br>
+  <a href="https://dev.to">
+    <img src="https://img.shields.io/badge/Back--End%20Development%20Best%20Practices%20in%202025-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog Post" />
+  </a>
+  <br><br>
+  <a href="https://dev.to">
+    <img src="https://img.shields.io/badge/Combining%20AI%20with%20Traditional%20Web%20Development-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog Post" />
+  </a>
+  <!-- BLOG-POST-LIST:END -->
+</div>
 
+<!-- FAVORITE QUOTE WITH ANIMATION -->
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/stars.gif" width="30">
+  Favorite Quote
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/stars.gif" width="30">
+</h1>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/codermo) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/codermo) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/codermo) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/codermo) 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=100&lines=if+(codeWorking){;++++while+(codeQuality+%3C+perfectCode){;++++++++codeQuality%2B%2B%3B;++++};};%2F%2F+-+CoderMo" alt="Typing SVG" />
+</div>
+
+<!-- PROFILE VIEWS AND SUPPORT SECTION -->
+<h1 align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/coin.gif" width="30">
+  Support My Work
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/coin.gif" width="30">
+</h1>
+
+<div align="center">
+  <table border="0" align="center" style="width: 80%;">
+    <tr border="0">
+      <td align="center">
+        <a href="https://www.buymeacoffee.com/mosh3eb">
+          <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.patreon.com/mosh3eb">
+          <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://ko-fi.com/mosh3eb">
+          <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ANIMATED FOOTER -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=120&section=footer&animation=fadeIn" width="100%" alt="footer" />
+</div>
