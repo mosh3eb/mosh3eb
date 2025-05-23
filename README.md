@@ -33,7 +33,7 @@
         I'm a <b>Back-end Seeker</b> with a focus on AI engineering
         <br><br>
         <img src="https://media.tenor.com/cOg3V13tLeEAAAAi/delivery-amazon.gif" width="50">
-        Ask me about <b>Back-end development A technologies</b>
+        Ask me about <b>Back-end development, Ai technologies</b>
         <br><br>
         <img src="https://media.tenor.com/_hGzFXAJgpgAAAAi/lightning-sword.gif" width="50">
         Fun fact: <b>I use tabs over spaces</b>
