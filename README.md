@@ -223,12 +223,17 @@
 <div align="center">
   <table border="0" align="center">
     <tr border="0">
-      <td width="50%" align="center">
+      <td width="auto%" align="center">
+        <a href="https://github.com/mosh3eb/motify">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=motify&theme=radical&hide_border=true" alt="motify" />
+        </a>
+      </td>
+      <td width="auto" align="center">
         <a href="https://github.com/mosh3eb/DigitalCraft">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=DigitalCraft&theme=radical&hide_border=true" alt="DigitalCraft" />
         </a>
       </td>
-      <td width="50%" align="center">
+      <td width="auto" align="center">
         <a href="https://github.com/mosh3eb/ReserveHub">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=mosh3eb&repo=ReserveHub&theme=radical&hide_border=true" alt="ReserveHub" />
         </a>
