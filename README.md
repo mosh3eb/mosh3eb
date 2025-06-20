@@ -174,7 +174,7 @@
 
 <!-- GITHUB TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mosh3eb&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mosh3eb&theme=radical&no-frame=true&no-bg=true&row=1&column=7&cache_seconds=86400" />
 </div>
 
 <!-- GITHUB STATS CARDS -->
@@ -182,10 +182,10 @@
   <table border="0" align="center">
     <tr border="0">
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosh3eb&theme=radical&hide_border=true" alt="streak stats"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?username=mosh3eb&theme=radical&hide_border=true" alt="streak stats"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mosh3eb&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=mosh3eb&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400"/>
       </td>
     </tr>
   </table>
